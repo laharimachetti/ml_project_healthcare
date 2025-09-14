@@ -3,4 +3,4 @@
 ## 📸 Reference Image
 Here how the sample looks:
 
-![Reference](reference.png)
+[Reference Image](reference.png)
