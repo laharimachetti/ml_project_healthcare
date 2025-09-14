@@ -3,4 +3,4 @@
 ## 📸 Reference Image
 Here how the sample looks:
 
-[Reference Image](reference.png)
+[Click here to view the reference image](reference.png)
