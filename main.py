@@ -130,8 +130,8 @@ with left_col:
         if os.path.exists(alt):
             doctor_path = alt
         else:
-            doctor_path = "C:/Users/user/OneDrive/Documents/ML/PROJECT_1/doctor.png"
-
+            doctor_path = os.path.join(os.path.dirname(__file__), "doctor.png")
+            
     left_container = st.container()
     left_container.image(doctor_path, width=520)
     result_placeholder = left_container.empty()
