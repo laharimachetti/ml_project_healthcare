@@ -57,3 +57,11 @@ The app was deployed using **Streamlit Cloud**, making it accessible to anyone w
 Here is how the sample looks:  
 
 [Click here to view the reference image](reference.png)  
+
+---
+
+## 🙏 Acknowledgement  
+
+This project was completed with the guidance of the **[Codebasics Machine Learning Course](https://codebasics.io/)**.  
+A special thanks to Codebasics for their clear explanations and structured learning path, which helped me build this end-to-end ML project with confidence.  
+
